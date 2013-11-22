@@ -41,6 +41,11 @@ Thumbs.db
 .metadata/
 target/
 
+# IntelliJ #
+#####################
+.idea/
+html-to-latex.iml
+
 # Project #
 ######################
 bin
